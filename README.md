@@ -1,1 +1,1 @@
-![Логотип GuperPay](https://github.com/oberturper/GP/raw/main/GuperPay.png)
+https://github.com/oberturper/GP/raw/main/GuperPay.png
