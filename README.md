@@ -1,1 +1,1 @@
-![Логотип GuperPay](https://github.com/oberturper/GP/raw/main/GuperPay.png)
+![Логотип GuperPay]([https://(https://github.com/obertruper/GP/blob/main/GuperPay.png))
