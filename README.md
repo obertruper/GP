@@ -1,2 +1,1 @@
-![Логотип GuperPay](GuperPay.png)
-[Посетите наш сайт](https://example.com)
+![Логотип GuperPay](https://github.com/oberturper/GP/raw/main/GuperPay.png)
